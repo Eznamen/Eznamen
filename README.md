@@ -19,8 +19,8 @@
    
 
 #### Сертификат НЕТОЛОГИЯ:  
-   ⚡ ![Java-разработка для начинающих](https://github.com/Eznamen/Eznamen/files/10948011/certificate.pdf)
-   ![Java-разработка для начинающих](file:////C:/foto/certificate.pdf)
+   ⚡ [Java-разработка для начинающих](https://github.com/Eznamen/Eznamen/files/10948011/certificate.pdf)
+
 
 <!--
 **Eznamen/Eznamen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
