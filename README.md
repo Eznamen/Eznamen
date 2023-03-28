@@ -11,7 +11,7 @@
 1. [Курсовой проект 2: Менеджер личных финансов](https://github.com/Eznamen/Kyrsovoy2Utf8)        
     ***Java, Maven, Git, Unit Test, протокол HTTP, JSON***
      
-1. [Работа с файлами csv, json, xml, bin](https://github.com/Eznamen/FileReader-Writer/branches)        
+1. [Работа с файлами csv, json, xml, bin](https://github.com/Eznamen/FileReader-Writer)        
     ***Java, Maven, Git, csv, json, xml, bin***
    
 1. [Дипломный проект ЛГПУ по специальности информатика: Спортивные организации г.Липецка](https://github.com/Eznamen/HLML-ASP-Sport-school-)        
